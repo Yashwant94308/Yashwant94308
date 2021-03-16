@@ -1,7 +1,7 @@
 ### Hi, I'm Yashwant 👋
 
 - 🔭 I’m a supervised learner but know how to tackle with unsupervised problems too.
-- 🌱 Developing an Anroid App using Flutter and Python at backend.
+- 🌱 Developing an Android App using Flutter and Python at backend.
 - 🌱 I’m currently learning Machine learning Algorithms.
 - 🤔 I’m looking for help from All My seniors.
 - 💬 Ask me about Python and Machine Learning.
